@@ -51,7 +51,5 @@ The MAC address can be changed for some benefits, including:
 
 A Wi-Fi deauthentication attack
 
-<img width="341" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/18a2568e-ffd1-4908-8540-ef641eb7b3d6">
-
-
+<img width="398" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/c4533c9d-244b-4091-9c66-c826d40bae51">
 
