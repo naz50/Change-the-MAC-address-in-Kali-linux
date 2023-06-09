@@ -53,3 +53,12 @@ A Wi-Fi deauthentication attack
 
 <img width="398" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/c4533c9d-244b-4091-9c66-c826d40bae51">
 
+
+
+<img width="421" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/c5f4cde4-0163-46e8-9ab3-2c5e75afa466">
+
+
+
+
+<img width="728" alt="1" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/c2ccb290-0dc8-45fd-abdc-09ecf7b15419">
+
