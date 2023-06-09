@@ -20,7 +20,10 @@ The MAC address can be changed for some benefits, including:
 
 #  steps to change mac address using ifconfig in Linux
 1. Open Terminal and type the below command to display all network interfaces in the machine
-<img width="135" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/9ea97675-4c05-442e-ae09-62e21c0e0caf">
+
+<img width="418" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/86dd2ac6-8816-4813-a443-156126cb3a77">
+
+
 
 2. Select the network interface which you want to change the mac address
 
@@ -28,15 +31,14 @@ The MAC address can be changed for some benefits, including:
 
 3. To change the network interface mac address we need to down it.
 
-<img width="416" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/773d4e9b-0454-4591-983b-02ec360ea7da">
-
-
+<img width="453" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/604bf890-0b99-4804-8cb2-6a59fc6f6e78">
 
 
 
 4. Changing MAC Address (Replace XX:XX:XX:XX:XX:XX with the mac address that you want to set)
 
-<img width="199" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/3aef92f6-383f-4f24-afae-e0ca69f87dad">
+
+<img width="473" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/d84a7f0e-5c3f-4f37-a960-de16b76c5643">
 
 
 5. Up the network interface
@@ -45,6 +47,7 @@ The MAC address can be changed for some benefits, including:
 <img width="341" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/142fa0a5-cc81-412b-a967-a60b93be1455">
 
 6. That’s it. your mac address has changed temporarily.
+
 
 A Wi-Fi deauthentication attack
 
