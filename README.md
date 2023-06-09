@@ -55,6 +55,9 @@ A Wi-Fi deauthentication attack
 
 
 
+# Test injection and monitor mode
+
+
 <img width="421" alt="image" src="https://github.com/naz50/Change-the-MAC-address-in-Kali-linux/assets/74384259/c5f4cde4-0163-46e8-9ab3-2c5e75afa466">
 
 
